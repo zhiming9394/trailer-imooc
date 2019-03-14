@@ -1,0 +1,23 @@
+{
+  "name": "trailer-imooc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start":"node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiming9394/trailer-imooc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhiming9394/trailer-imooc/issues"
+  },
+  "homepage": "https://github.com/zhiming9394/trailer-imooc#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
